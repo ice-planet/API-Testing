@@ -1,0 +1,7 @@
+{
+  "settings": {
+    "baseURL": "https://reqres.in/",
+    "getEndPoint": "api/users",
+    "getEndPoint2": "api/users/33"
+  }
+}
